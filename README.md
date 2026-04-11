@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Natthapong Chatchaloem
 ===============================================================================================================================================
 
-Student
--------
+Student IT
+----------
+
+I,ve been learning Dart&Flutter for Final Mobile Project in Univesity
 
 * 🌍  I'm based in Lamphun Thailand
 
