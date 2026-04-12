@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student IT
 ----------
 
-I,ve been learning Dart&Flutter for Final Mobile Project in Univesity
+I,ve been learning Dart&Flutter for Final Project in Univesity
 
 * 🌍  I'm based in Lamphun Thailand
 
