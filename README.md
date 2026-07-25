@@ -1,14 +1,71 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Natthapong Chatchaloem
 ===============================================================================================================================================
 
-Student IT
-----------
+<h1 align="center">Hi, I’m Natthapong Chatchaloem <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
-I,ve been learning Dart&Flutter for Final Project in Univesity
+<p align="center">
+  <strong>Student IT22</strong><br/>
+  <em>“move forward!”</em>
+</p>
 
-* 🌍  I'm based in Lamphun Thailand
+---
 
-### Socials
+## 🚀 About Me
+- 🌱  I’m currently learning **⟪Dart / Flutter⟫**  
+- 🛠  Daily driver stack: **⟪JAVA / Springboot⟫**  
+- 🎯  2026 Goal: **⟪ Full-Stack Developer ⟫**  
+- 📫  Reach me: **⟪natthapong.dev9148@gmail.com⟫**
 
-<p align="left"> <a href="https://www.github.com/NC-Kaito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> 
-<a href="https://www.facebook.com/natthapong.chatchaloem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+---
+
+## 🧰 Tech Stack & Tools
+<div align="center">
+
+| Domain | Primary | Comfortable | Currently Exploring |
+|--------|---------|-------------|---------------------|
+| Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| Back-end | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| Data | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| DevOps & Tools | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+
+</div>
+---
+
+## 📌 Featured Projects
+| Project | Tech | Highlights | Links |
+|---------|------|-----------|-------|
+| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
+| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+
+_Add 2–4 projects max. Each row should fit on one screen._
+
+---
+
+## ✍🏻 Recent Blog / Talks
+<!-- GH Action can automate this section; placeholder for manual list -->
+- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
+- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
+- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NC-Kaito&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NC-Kaito&layout=compact&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let’s Connect
+> **“Great products are built by great people working together.”**
+
+- 💌 Email: ⟪natthapong.dev9148@gamil.com⟫  
+- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
+- 🐦 DM me on [X/Twitter](⟪url⟫)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+</p>
