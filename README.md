@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Natthapong Chatchaloem
-===============================================================================================================================================
 
-<h1 align="center">Hi, I’m Natthapong Chatchaloem <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">
+  Hi, I’m Natthapong Chatchaloem 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" height="35" />
+</h1>
 
 <p align="center">
   <strong>Student IT22</strong><br/>
