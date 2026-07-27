@@ -54,12 +54,10 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+## 🤝 Let’s Connect Me
 
 - 💌 Email: ⟪natthapong.dev9148@gamil.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 🐦 DM me on [Facebook](https://www.facebook.com/natthapong.chatchaloem)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
