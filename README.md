@@ -34,11 +34,12 @@
 ---
 
 ## 📌 Featured Projects
+
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Campus food delivery⟫** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](⟪https://github.com/NC-Kaito/campus-food-delivery⟫) |
-| **⟪Japanese-Language Proficiency Test⟫** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](⟪https://github.com/NC-Kaito/jlpt-web-project⟫) |
-| **⟪Cooperative Education⟫** | HTML/CSS/Java-Script · Go · MySQL | Try new language golang | [Case Study](⟪[url](https://github.com/NC-Kaito/co-op-web-project)⟫) |
+| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](https://github.com/NC-Kaito/campus-food-delivery) |
+| **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/NC-Kaito/jlpt-web-project) |
+| **Cooperative Education** | HTML/CSS/JavaScript · Go · MySQL | Try new language golang | [Repo](https://github.com/NC-Kaito/co-op-web-project) |
 
 _Add 2–4 projects max. Each row should fit on one screen._
 
