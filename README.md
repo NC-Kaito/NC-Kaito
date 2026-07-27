@@ -60,5 +60,5 @@ _Add 2–4 projects max. Each row should fit on one screen._
 - 🐦 DM me on [Facebook](https://www.facebook.com/natthapong.chatchaloem)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=NC-Kaito&style=flat-square" alt="profile views"/>
 </p>
