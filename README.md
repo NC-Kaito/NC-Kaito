@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi, I’m Natthapong Chatchaloem 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" height="35" />
@@ -48,15 +47,15 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NC-Kaito&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NC-Kaito&layout=compact&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NC-Kaito&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NC-Kaito&layout=compact&hide_border=true&count_private=true" />
 </div>
 
 ---
 
 ## 🤝 Let’s Connect Me
 
-- 💌 Email: ⟪natthapong.dev9148@gamil.com⟫  
+- 💌 Email: ⟪natthapong.dev9148@gmail.com⟫  
 - 🐦 DM me on [Facebook](https://www.facebook.com/natthapong.chatchaloem)
 
 <p align="center">
