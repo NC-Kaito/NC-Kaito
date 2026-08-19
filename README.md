@@ -50,7 +50,7 @@
       <img src="images/campusFoodProject1.png"
         alt="Campus Food Delivery Screenshot 1"
         style="
-          width: 46%;
+          width: 30%;
           max-width: 140px;
           border-radius: 8px;
           box-shadow: 0 2px 6px rgba(0,0,0,0.15);
@@ -59,7 +59,7 @@
       <img src="images/campusFoodProject2.png"
         alt="Campus Food Delivery Screenshot 2"
         style="
-          width: 46%;
+          width: 30%;
           max-width: 140px;
           border-radius: 8px;
           box-shadow: 0 2px 6px rgba(0,0,0,0.15);
@@ -113,8 +113,8 @@
     <img src="images/JLPT_project_homepage.png"
       alt="JLPT Project Screenshot"
       style="
-        width: 100%;
-        max-width: 200px;
+        width: 80%;
+        max-width: 400px;
         border-radius: 12px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.15);
         display: block;
@@ -123,8 +123,8 @@
      <img src="images/JLPT_project_person_result.png"
       alt="JLPT Project Screenshot"
       style="
-        width: 100%;
-        max-width: 200px;
+        width: 80%;
+        max-width: 400px;
         border-radius: 12px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.15);
         display: block;
