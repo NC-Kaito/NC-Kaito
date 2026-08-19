@@ -35,52 +35,55 @@
 ## 📌 Featured Projects
 
 <table>
+<!-- ==================== Table Header ==================== -->
+<tr style="vertical-align: top;">
+  <th width="37%">Project</th>
+  <th width="14%">Tech</th>
+  <th width="35%">Key Features</th>
+  <th width="14%">Links</th>
+</tr>
+
 <!-- ==================== Project 1 ==================== -->
 <tr style="vertical-align: top;">
-  <th>Project</th>
-  <th>Tech</th>
-  <th>Key Features</th>
-  <th>Links</th>
-</tr>
-<tr style="vertical-align: top;">
-  <td style="vertical-align: top; width: 25%; text-align: center;">
+  <td style="vertical-align: top; text-align: center;">
     <div style="text-align: left;">🛵 <strong>Campus Food Delivery</strong></div>
     <br>
-    <div style="display: flex; gap: 6px; justify-content: center; flex-wrap: wrap;">
-      <img src="images/campusFoodProject1.png"
-        alt="Campus Food Delivery Screenshot 1"
-        style="
-          width: 30%;
-          max-width: 140px;
-          border-radius: 8px;
-          box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-          display: inline-block;
-        "/>
-      <img src="images/campusFoodProject2.png"
-        alt="Campus Food Delivery Screenshot 2"
-        style="
-          width: 30%;
-          max-width: 140px;
-          border-radius: 8px;
-          box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-          display: inline-block;
-        "/>
+    <div style="display: flex; gap: 6px; justify-content: center; align-items: center;">
+      <!-- คลิกเพื่อดูรูปใหญ่ -->
+      <a href="images/campusFoodProject1.png" target="_blank" title="Click to view full image">
+        <img src="images/campusFoodProject1.png"
+          alt="Campus Food Delivery Screenshot 1"
+          width="150"
+          style="
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          "/>
+      </a>
+      <a href="images/campusFoodProject2.png" target="_blank" title="Click to view full image">
+        <img src="images/campusFoodProject2.png"
+          alt="Campus Food Delivery Screenshot 2"
+          width="150"
+          style="
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          "/>
+      </a>
     </div>
+    <div style="font-size: 11px; color: #8b949e; margin-top: 4px;">🔍 Click image to enlarge</div>
   </td>
-  <td style="vertical-align: top; width: 20%;">
+  <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   </td>
-  <td style="vertical-align: top; width: 40%;">
+  <td style="vertical-align: top;">
     👥 <strong>Duo Project</strong>
     <br/>
-    <em style="font-size:0.85em; color:#9ca3af;">Mobile Application & Backend System</em><br>
+    <em style="font-size:0.85em; color:#9ca3af;">Mobile Application</em><br>
     🍱 <strong>Campus Food Delivery System</strong>
-    <p style="margin:4px 0 8px;">Developed a cross-platform mobile application to streamline campus food ordering, reducing travel time and improving food service
-accessibility for students and faculty</p>
+    <p style="margin:4px 0 8px;">Developed a cross-platform mobile application to streamline campus food ordering, reducing travel time and improving food service accessibility for students and faculty.</p>
     <ul>
       <li>Multi-role architecture (User, Member, Restaurants, Rider, Admin)</li>
       <li>Real-time order status tracking</li>
@@ -88,7 +91,7 @@ accessibility for students and faculty</p>
       <li>RESTful APIs and secure PostgreSQL database backend</li>
     </ul>
   </td>
-  <td style="vertical-align: top; text-align: center; padding: 12px 8px; width: 15%;">
+  <td style="vertical-align: top; text-align: center; padding: 12px 8px;">
     <a href="https://github.com/NC-Kaito/campus-food-delivery"
        style="
          display: inline-block;
@@ -108,29 +111,31 @@ accessibility for students and faculty</p>
 
 <!-- ==================== Project 2 ==================== -->
 <tr style="vertical-align: top;">
-  <td style="vertical-align: top;">
-    🇯🇵 <strong>Japanese-Language Proficiency Test</strong>
-    <br><br>
-    <img src="images/JLPT_project_homepage.png"
-      alt="JLPT Project Screenshot"
-      style="
-        width: 80%;
-        max-width: 400px;
-        border-radius: 12px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-        display: block;
-        margin: 8px auto;
-      "/>
-     <img src="images/JLPT_project_person_result.png"
-      alt="JLPT Project Screenshot"
-      style="
-        width: 80%;
-        max-width: 400px;
-        border-radius: 12px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-        display: block;
-        margin: 8px auto;
-      "/>
+  <td style="vertical-align: top; text-align: center;">
+    <div style="text-align: left;">🇯🇵 <strong>Japanese-Language Proficiency Test</strong></div>
+    <br>
+    <div style="display: flex; flex-direction: column; gap: 6px; align-items: center;">
+      <!-- คลิกเพื่อดูรูปใหญ่ -->
+      <a href="images/JLPT_project_homepage.png" target="_blank" title="Click to view full image">
+        <img src="images/JLPT_project_homepage.png"
+          alt="JLPT Project Homepage Screenshot"
+          width="300"
+          style="
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          "/>
+      </a>
+      <a href="images/JLPT_project_person_result.png" target="_blank" title="Click to view full image">
+        <img src="images/JLPT_project_person_result.png"
+          alt="JLPT Project Result Screenshot"
+          width="300"
+          style="
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          "/>
+      </a>
+    </div>
+    <div style="font-size: 11px; color: #8b949e; margin-top: 4px;">🔍 Click image to enlarge</div>
   </td>
   <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/><br/>
@@ -169,40 +174,42 @@ accessibility for students and faculty</p>
 
 <!-- ==================== Project 3 ==================== -->
 <tr style="vertical-align: top;">
-  <td style="vertical-align: top;">
-    🎓 <strong>Cooperative Education Management</strong>
-    <br><br>
-    <img src="image/coop-project.png"
-      alt="Co-op Project Screenshot"
-      style="
-        width: 100%;
-        max-width: 400px;
-        border-radius: 12px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-        display: block;
-        margin: 8px auto;
-      "/>
+  <td style="vertical-align: top; text-align: center;">
+    <div style="text-align: left;">🗄️ <strong>Exam Management Database Programming</strong></div>
+    <br>
+    <div style="display: flex; justify-content: center;">
+      <!-- คลิกเพื่อดูรูปใหญ่ -->
+      <a href="images/ER_diagram.png" target="_blank" title="Click to view full image">
+        <img src="images/ER_diagram.png" 
+          width="210" 
+          alt="Oracle Relational Schema & ER Diagram" 
+          style="
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          "/>
+      </a>
+    </div>
+    <div style="font-size: 11px; color: #8b949e; margin-top: 4px;">🔍 Click image to enlarge</div>
   </td>
   <td style="vertical-align: top;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/ER_Modeling-333333?style=flat&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Schema_Design-555555?style=flat&logoColor=white"/>
   </td>
   <td style="vertical-align: top;">
-    🚀 <strong>Language Exploration Project</strong>
+    🎓 <strong>Academic Coursework Project</strong>
     <br/>
-    <em style="font-size:0.85em; color:#9ca3af;">Learning & Building Backend with Go (Golang)</em><br>
-    🏢 <strong>Cooperative Education System</strong>
-    <p style="margin:4px 0 8px;">A web application to streamline university student internship and co-op tracking.</p>
+    <em style="font-size:0.85em; color:#9ca3af;">Database Systems & Data Modeling</em><br>
+    📊 <strong>Relational Database Design with Oracle</strong>
+    <p style="margin:4px 0 8px;">A relational database schema designed for an exam registration, proctor scheduling, and score management system.</p>
     <ul>
-      <li>Student application and document submission workflow</li>
-      <li>Evaluation and internship progress tracking system</li>
+      <li>Entity-Relationship (ER) modeling and comprehensive schema analysis</li>
+      <li>Relational table mapping with Primary Keys, Foreign Keys, and Unique Constraints</li>
+      <li>Normalization (1NF–3NF) ensuring data integrity across Users, Schedules, Exams, and Payments</li>
     </ul>
   </td>
   <td style="vertical-align: top; text-align: center; padding: 12px 8px;">
-    <a href="https://github.com/NC-Kaito/co-op-web-project"
+    <a href="https://github.com/NC-Kaito/your-database-repo-name"
        style="
          display: inline-block;
          background-color: #181717;
