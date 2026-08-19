@@ -53,7 +53,7 @@
       <a href="images/campusFoodProject1.png" target="_blank" title="Click to view full image">
         <img src="images/campusFoodProject1.png"
           alt="Campus Food Delivery Screenshot 1"
-          width="150"
+          width="130"
           style="
             border-radius: 6px;
             box-shadow: 0 2px 6px rgba(0,0,0,0.15);
@@ -62,7 +62,7 @@
       <a href="images/campusFoodProject2.png" target="_blank" title="Click to view full image">
         <img src="images/campusFoodProject2.png"
           alt="Campus Food Delivery Screenshot 2"
-          width="150"
+          width="130"
           style="
             border-radius: 6px;
             box-shadow: 0 2px 6px rgba(0,0,0,0.15);
