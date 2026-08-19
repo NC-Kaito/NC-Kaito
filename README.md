@@ -175,7 +175,7 @@
 <!-- ==================== Project 3 ==================== -->
 <tr style="vertical-align: top;">
   <td style="vertical-align: top; text-align: center;">
-    <div style="text-align: left;">🗄️ <strong>Exam Management Database Programming</strong></div>
+    <div style="text-align: left;">🗄️ <strong>JLPT Exam Management Database Programming</strong></div>
     <br>
     <div style="display: flex; justify-content: center;">
       <!-- คลิกเพื่อดูรูปใหญ่ -->
