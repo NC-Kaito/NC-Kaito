@@ -110,11 +110,21 @@
   <td style="vertical-align: top;">
     🇯🇵 <strong>Japanese-Language Proficiency Test</strong>
     <br><br>
-    <img src="image/jlpt-project.png"
+    <img src="images/JLPT_project_homepage.png"
       alt="JLPT Project Screenshot"
       style="
         width: 100%;
-        max-width: 400px;
+        max-width: 200px;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        display: block;
+        margin: 8px auto;
+      "/>
+     <img src="images/JLPT_project_person_result.png"
+      alt="JLPT Project Screenshot"
+      style="
+        width: 100%;
+        max-width: 200px;
         border-radius: 12px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.15);
         display: block;
