@@ -78,10 +78,11 @@
     👥 <strong>Duo Project</strong>
     <br/>
     <em style="font-size:0.85em; color:#9ca3af;">Mobile Application & Backend System</em><br>
-    🍱 <strong>Campus Delivery Platform</strong>
-    <p style="margin:4px 0 8px;">A comprehensive mobile food delivery solution designed for campus communities.</p>
+    🍱 <strong>Campus Food Delivery System</strong>
+    <p style="margin:4px 0 8px;">Developed a cross-platform mobile application to streamline campus food ordering, reducing travel time and improving food service
+accessibility for students and faculty</p>
     <ul>
-      <li>Multi-role architecture (Customers, Restaurants, Riders)</li>
+      <li>Multi-role architecture (User, Member, Restaurants, Rider, Admin)</li>
       <li>Real-time order status tracking</li>
       <li>Menu, cart, and order management</li>
       <li>RESTful APIs and secure PostgreSQL database backend</li>
