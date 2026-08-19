@@ -40,7 +40,6 @@
 | **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/NC-Kaito/jlpt-web-project) |
 | **Cooperative Education** | HTML/CSS/JavaScript · Go · MySQL | Try new language golang | [Repo](https://github.com/NC-Kaito/co-op-web-project) |
 
-_Add 2–4 projects max. Each row should fit on one screen._
 
 ---
 
