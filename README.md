@@ -43,19 +43,29 @@
   <th>Links</th>
 </tr>
 <tr style="vertical-align: top;">
-  <td style="vertical-align: top; width: 25%;">
-    🛵 <strong>Campus Food Delivery</strong>
-    <br><br>
-    <img src="image/campus-food-delivery.png"
-      alt="Campus Food Delivery Screenshot"
-      style="
-        width: 100%;
-        max-width: 400px;
-        border-radius: 12px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-        display: block;
-        margin: 8px auto;
-      "/>
+  <td style="vertical-align: top; width: 25%; text-align: center;">
+    <div style="text-align: left;">🛵 <strong>Campus Food Delivery</strong></div>
+    <br>
+    <div style="display: flex; gap: 6px; justify-content: center; flex-wrap: wrap;">
+      <img src="images/campusFoodProject1.png"
+        alt="Campus Food Delivery Screenshot 1"
+        style="
+          width: 46%;
+          max-width: 140px;
+          border-radius: 8px;
+          box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          display: inline-block;
+        "/>
+      <img src="images/campusFoodProject2.png"
+        alt="Campus Food Delivery Screenshot 2"
+        style="
+          width: 46%;
+          max-width: 140px;
+          border-radius: 8px;
+          box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+          display: inline-block;
+        "/>
+    </div>
   </td>
   <td style="vertical-align: top; width: 20%;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/><br/>
