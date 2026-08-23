@@ -225,7 +225,7 @@
     </ul>
   </td>
   <td style="vertical-align: top; text-align: center; padding: 12px 8px;">
-    <a href="https://github.com/NC-Kaito/your-database-repo-name"
+    <a href="https://github.com/NC-Kaito/project-database-jlpt-system"
        style="
          display: inline-block;
          background-color: #181717;
@@ -238,6 +238,20 @@
          white-space: nowrap;
        ">
       🔗 View Repo
+    </a>
+    <a href="[https://github.com/NC-Kaito/project-database-jlpt-system](https://github.com/NC-Kaito/project-database-jlpt-system/blob/main/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%20JLPT.pdf)"
+       style="
+         display: inline-block;
+         background-color: #181717;
+         color: #ffffff;
+         text-decoration: none;
+         font-size: 13px;
+         font-weight: 600;
+         padding: 8px 14px;
+         border-radius: 6px;
+         white-space: nowrap;
+       ">
+      🔗 View Document
     </a>
   </td>
 </tr>
